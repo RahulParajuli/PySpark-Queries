@@ -9,7 +9,7 @@ A PySpark library to apply SQL-like analysis on a huge amount of structured or s
 
 ## Use Cases
 
-<b>Batch processing></b><br>PySpark RDD and DataFrame’s are used to process batch pipelines where you would need high throughput.<br>
+<b>Batch processing</b><br>PySpark RDD and DataFrame’s are used to process batch pipelines where you would need high throughput.<br>
 <b>Realtime processing</b><br>
 PySpark Streaming is used to for real time processing.
 <br>
